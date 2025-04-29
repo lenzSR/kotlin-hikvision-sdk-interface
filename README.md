@@ -9,9 +9,9 @@ IP地址
 登录账号和密码
 开发工具：
 IntelliJ IDEA（推荐使用最新版本）
+
 2 环境配置
 开发环境如下：
-
 基础环境：
 操作系统：Windows 10
 JDK 17：Kotlin开发需要Java环境支持
