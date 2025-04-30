@@ -18,3 +18,6 @@ JDK 17：Kotlin开发需要Java环境支持
 Gradle 8.5：项目构建工具
 技术选型：
 JNA（Java Native Access）：开源Java框架，提供简便方式访问本地共享库（如DLL文件），无需编写JNI代码
+
+详细可以查看我的博客：
+https://lenz.pics/blog/kotlin-hikvision-sdk.html
